@@ -44,3 +44,5 @@ Using setw for alignment:
 Using setprecision and fixed:
 Original Price: 123.456789
 Fixed & setprecision(2): 123.46
+
+Result:Thus C++ program was executed successfully.
